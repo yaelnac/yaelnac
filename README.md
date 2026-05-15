@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/yael-nachumow)">
+  <a href="https://www.linkedin.com/in/yael-nachumow">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ys.nachumow@gmail.com">
