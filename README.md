@@ -40,6 +40,20 @@ I care about projects that are useful enough to try, not just nice enough to scr
 
 ---
 
+## Featured project
+
+### 🍳 [Cooking Agent](https://github.com/yaelnac/cooking-agent)
+
+**Cook a high-protein meal by talking, not scrolling.**
+
+A voice-first cook-along built with Next.js, TypeScript, and ElevenLabs Agents. Pick a recipe, tap start, and it walks you through it step by step, waits for voice commands, starts timers, and keeps the screen in sync with the conversation.
+
+`Next.js` `TypeScript` `ElevenLabs Agents` `Voice UI`
+
+[View repository →](https://github.com/yaelnac/cooking-agent)
+
+---
+
 ## What you’ll find here
 
 | | |
